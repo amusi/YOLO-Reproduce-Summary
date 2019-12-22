@@ -42,6 +42,7 @@
 | [keras-yolo3](https://github.com/qqwweee/keras-yolo3)        | √         | √     | 4916 |
 | [YOLOv3](https://github.com/xiaochus/YOLOv3)                 | √         | x     | 517  |
 | [keras-YOLOv3-mobilenet](https://github.com/Adamdad/keras-YOLOv3-mobilenet) | √         | √     | 427  |
+| [keras-YOLOv3-model-set](https://github.com/david8862/keras-YOLOv3-model-set) | √         | √     | 53   |
 
 <a name="Caffe"></a>
 
