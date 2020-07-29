@@ -27,6 +27,7 @@ Code: https://github.com/AlexeyAB/darknet
 
 | Project                                                      | Infernece | Train | star |
 | ------------------------------------------------------------ | --------- | ----- | ---- |
+| [PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4) | √         | √     | 127  |
 | [pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) | √         | √     | 926  |
 | [yolov4-pytorch](https://github.com/bubbliiiing/yolov4-pytorch) | √         | √     | 120  |
 
