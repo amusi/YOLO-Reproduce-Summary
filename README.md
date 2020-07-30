@@ -20,6 +20,7 @@ Code: https://github.com/AlexeyAB/darknet
 - [Caffe](#Caffe)
 - [TensorRT](#TensorRT)
 - [tkDNN](#tkDNN)
+- [OpenVINO](#OpenVINO)
 
 <a name="PyTorch"></a>
 
@@ -83,6 +84,14 @@ Code: https://github.com/AlexeyAB/darknet
 | Project                                     | Infernece | Train | Star |
 | ------------------------------------------- | --------- | ----- | ---- |
 | [tkDNN](https://github.com/ceccocats/tkDNN) | √         |       | 177  |
+
+<a name="OpenVINO"></a>
+
+## OpenVINO
+
+| Project                                                      | Infernece | Train | Star |
+| ------------------------------------------------------------ | --------- | ----- | ---- |
+| [OpenVINO-YOLOV4](https://github.com/TNTWEN/OpenVINO-YOLOV4) | √         |       | 15   |
 
 <a name="YOLOv3"></a>
 
